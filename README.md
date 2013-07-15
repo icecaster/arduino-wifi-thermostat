@@ -1,2 +1,2 @@
-arduino-wifi-termostat
-======================
+arduino-wifi-thermostat
+=======================
